@@ -6,10 +6,10 @@
 \alias{helperfuncts-package}
 \title{helperfuncts: Useful Function Wrappers for data.table}
 \description{
-What the package does (one paragraph).
+Useful wrappers for data.table
 }
 \author{
-\strong{Maintainer}: First Last \email{first.last@example.com} (\href{https://orcid.org/YOUR-ORCID-ID}{ORCID})
+\strong{Maintainer}: Piotr Sternicki \email{sternicki.p@gmail.com}
 
 }
 \keyword{internal}
